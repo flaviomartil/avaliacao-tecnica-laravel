@@ -1,4 +1,4 @@
-# Avaliação tecnica laravel
+# Revisão Técnica Laravel
 
 ## Cenário
 Um professor está fazendo o lançamento de uma plataforma de cursos online. Nesta plataforma, queremos permitir que os alunos se inscrevam nos cursos através do painel de administração.
